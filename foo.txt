@@ -1,2 +1,3 @@
 New foo file
 New line
+New
